@@ -1,0 +1,5 @@
+* Librecode
+
+A derivative of Liberation Serif for programming.
+
+Intended for those who like variable width serif fonts and wish to program in them.
