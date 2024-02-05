@@ -1,5 +1,12 @@
 * Librecode
-
 A derivative of Liberation Serif for programming.
-
 Intended for those who like variable width serif fonts and wish to program in them.
+
+Changes include:
+- Widened space for indentation.
+- Centered hyphen for arrows and arithmetic.
+- Centered asterisk for arithmetic and increased visual impact.
+* TODO
+- Possibly decrease space width to be more consistent with the rest of the font
+- Nerd font icons
+- Make parenthesis, brackets, and braces more noticeable
