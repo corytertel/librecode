@@ -6,7 +6,9 @@ Changes include:
 - Widened space for indentation.
 - Centered hyphen for arrows and arithmetic.
 - Centered asterisk for arithmetic and increased visual impact.
+- Centered plus and equal sign for arithmetic
 * TODO
 - Possibly decrease space width to be more consistent with the rest of the font
 - Nerd font icons
 - Make parenthesis, brackets, and braces more noticeable
+- Slashed zero
